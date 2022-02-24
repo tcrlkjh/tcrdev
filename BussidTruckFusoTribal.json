@@ -1,14 +1,14 @@
 {  "Ads": [
     {
        "select_main_ads": "UNITY",
-      "select_backup_ads":"",
+      "select_backup_ads":"STARTAPP",
       "main_ads_banner": "",
       "main_ads_intertitial":"Interstitial_Android",
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
-      "interval_intertitial": 0,
+      "interval_intertitial": 1,
       "initialize_sdk":"4608942",
-      "initialize_sdk_backup_ads":"",
+      "initialize_sdk_backup_ads":"201401334",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
       "high_paying_keyword_3": "",
